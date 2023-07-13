@@ -1,8 +1,6 @@
 #include <stdio.h>
 /**
- *main - start function
- *
- *function - printf
+ *main - start function    
  *
  *return: 0
  */
