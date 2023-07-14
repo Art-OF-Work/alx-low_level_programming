@@ -10,9 +10,9 @@ int main(void)
 	int C;
 
 	for (C = 0; C < 10; C++)
-			printf("%d",C);
+		printf("%d", C);
 
-	putchar('\n'); /* Add a newline character after printing the alphabets */
+	putchar('\n'); /* Add a newline character after printing the numbers */
 
 	return (0);
 }
