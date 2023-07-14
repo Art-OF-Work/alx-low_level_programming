@@ -9,7 +9,8 @@ int main(void)
 {
 	int C;
 
-	for (C = 0; C < 16; C++) {
+	for (C = 0; C < 16; C++)
+	{
 		if (C < 10)
 			putchar('0' + C);
 		else
