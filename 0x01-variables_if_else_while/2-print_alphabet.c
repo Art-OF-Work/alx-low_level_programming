@@ -7,12 +7,14 @@
  */
 int main(void)
 {
-	char C;
+    char C;
 
-	for (C = 'a'; C <= 'z'; C++)
-	{
-		putchar(C);
-	}
+    for (C = 'a'; C <= 'z'; C++)
+    {
+        putchar(C);
+    }
+    
+    putchar('\n'); // Add a newline character after printing the alphabets
 
-	return (0);
+    return (0);
 }
