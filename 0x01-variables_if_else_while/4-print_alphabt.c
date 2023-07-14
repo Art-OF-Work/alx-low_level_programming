@@ -9,11 +9,9 @@ int main(void)
 {
 	char C;
 
-	for (C = 'a'; C <= 'z'; C++) {
-		if (C != 'e' && C != 'q') {
+	for (C = 'a'; C <= 'z'; C++)
+		if (C != 'q' && C != 'e')
 			putchar(C);
-		}
-	}
 
 	putchar('\n'); /* Add a newline character after printing the alphabets */
 
