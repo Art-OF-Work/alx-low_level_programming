@@ -13,7 +13,7 @@ int main(void)
 		if (C < 10)
 			putchar('0' + C);
 		else
-			putchar('A' + C - 10);
+			putchar('a' + C - 10);
 	}
 
 	putchar('\n'); /* Add a newline character after printing the numbers */
