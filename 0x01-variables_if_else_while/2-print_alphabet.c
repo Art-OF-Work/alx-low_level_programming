@@ -13,8 +13,8 @@ int main(void)
     {
         putchar(C);
     }
-    
-    putchar('\n'); // Add a newline character after printing the alphabets
+
+    putchar('\n'); /* Add a newline character after printing the alphabets */
 
     return (0);
 }
