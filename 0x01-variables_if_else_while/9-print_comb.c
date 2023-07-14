@@ -12,8 +12,11 @@ int main(void)
 	for (C = 0; C < 10; C++)
 	{
 		putchar('0' + C);
-		putchar(',');
-		putchar(' ');
+		if (C < 9)
+		{
+			putchar(',');
+			putchar(' ');
+		}
 	}
 	putchar('\n'); /* Add a newline character after printing the numbers */
 
