@@ -11,3 +11,8 @@ Bit manipulation is the act of algorithmically manipulating bits or other pieces
 |<<|Binary Left Shift Operator. The left operands value is moved left by the number of bits specified by the right operand.|A << 2 will give 240 which is 1111 0000|
 |>>|Binary Right Shift Operator. The left operands value is moved right by the number of bits specified by the right operand.|A >> 2 will give 15 which is 0000 1111|
 
+
+
+## OTHER
+
+(Yassir BOUKHIMA)[https://github.com/Art-OF-Work]
