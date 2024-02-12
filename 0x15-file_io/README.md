@@ -65,12 +65,12 @@ In C programming, functions like open(), read(), write(), and close() are used t
 
 
 ## How to use the I/O system calls open, close, read and write
-[image](https://github.com/Art-OF-Work/alx-low_level_programming/blob/master/0x15-file_io/Untitled%20file.png)
+![image](./imag/Untitled%20file.png)
 
 ## Permission flags
 
-[image](https://github.com/Art-OF-Work/alx-low_level_programming/blob/master/0x15-file_io/Untitled%20file%20(2).png)
+![image](./imag/Untitled%20file%20(2).png)
 
 ## Summarize
 
-[image](![./Untitled%20file%20(1).png](https://github.com/Art-OF-Work/alx-low_level_programming/blob/master/0x15-file_io/Untitled%20file%20(1).png))
+![image](./imag/Untitled%20file%20(1).png)
